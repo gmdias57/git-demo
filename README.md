@@ -1,2 +1,2 @@
 DEMO git repo 
-This is a file and I, a REAL humna bean am editing it 
+This is a file and I, a REAL human bean am editing it 
